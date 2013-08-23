@@ -1,10 +1,10 @@
 {
-    "watermark": "53ace513b24728aa8ca9e6a998bed327879febce", 
+    "watermark": "9a96845de6dce48135bae329baa3223cfc7697d3", 
     "summary": {
-        "xingyun27221@gmail.com": 69.75, 
-        "yunxing@upthere.com": -26.21, 
         "hongyuwang87@gmail.com": 55.81, 
-        "axia@macalester.edu": -108.66, 
-        "Chbeiyou@gmail.com": 9.27
+        "yunxing@upthere.com": -19.36, 
+        "Chbeiyou@gmail.com": 5.85, 
+        "axia@macalester.edu": -112.08, 
+        "xingyun27221@gmail.com": 69.75
     }
 }
