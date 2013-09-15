@@ -1,12 +1,12 @@
 {
-    "watermark": "c2ee56cf331feb8c4fcfa8898f4105efd0022fdf", 
+    "watermark": "7dc62cd04ae152f241e91b715a110a89967f87b7", 
     "summary": {
+        "Chbeiyou@gmail.com": 233.0, 
+        "axia@macalester.edu": 281.58, 
+        "xingyun27221@gmail.com": 50.49, 
         "Hding@macalester.edu": -218.3, 
-        "wangyufei2009@gmail.com": -181.56, 
         "hongyuwang87@gmail.com": 23.72, 
-        "axia@macalester.edu": 291.4, 
-        "Chbeiyou@gmail.com": 242.82, 
-        "yunxing@upthere.com": -179.14, 
-        "xingyun27221@gmail.com": 21.01
+        "yunxing@upthere.com": -188.96, 
+        "wangyufei2009@gmail.com": -181.56
     }
 }
