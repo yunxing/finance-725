@@ -4,10 +4,10 @@
         "guoxing@umich.edu": 13.5, 
         "hongyuwang87@gmail.com": 23.72, 
         "wangyufei2009@gmail.com": -181.56, 
-        "yunxing@upthere.com": -231.82, 
         "Chbeiyou@gmail.com": 380.53, 
+        "yunxing@upthere.com": -188.82, 
         "iamanxia@gmail.com": 203.22, 
-        "xingyun27221@gmail.com": 10.63
+        "xingyun27221@gmail.com": -32.37
     }, 
-    "watermark": "ab743c6698176c32a8824646fe6a401eb0260bbe"
+    "watermark": "e9021351a5df9a4295da1faf88ff92c797264f5c"
 }
