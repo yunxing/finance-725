@@ -1,12 +1,12 @@
 {
     "summary": {
-        "yunxing@upthere.com": -136.37, 
-        "iamanxia@gmail.com": 63.96, 
-        "xingyun27221@gmail.com": -64.21, 
-        "Chbeiyou@gmail.com": 338.64, 
-        "guoxing@umich.edu": 13.5, 
         "hongyuwang87@gmail.com": 2.72, 
-        "Hding@macalester.edu": -218.3
+        "Hding@macalester.edu": -218.3, 
+        "guoxing@umich.edu": 13.5, 
+        "Chbeiyou@gmail.com": 383.64, 
+        "iamanxia@gmail.com": 48.96, 
+        "xingyun27221@gmail.com": -79.21, 
+        "yunxing@upthere.com": -151.37
     }, 
-    "watermark": "21816be7d011eee1061d0aa57b59373a687ed918"
+    "watermark": "be02776a4b12952e20d2db1df146fe5b9b2efe5e"
 }
