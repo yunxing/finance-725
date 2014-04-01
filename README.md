@@ -1,14 +1,14 @@
 {
+    "watermark": "f4a2af292912abb932b6f7cc9861c7cfdebe3a7a", 
     "summary": {
-        "yuelee@umich.edu": -43.16, 
-        "yunxing@upthere.com": -367.47, 
-        "Xingyun27221@gmail.com": -40.53, 
-        "Hding@macalester.edu": -218.3, 
-        "guoxing@umich.edu": 13.5, 
-        "iamanxia@gmail.com": -191.79, 
-        "hongyuwang87@gmail.com": 2.72, 
+        "Chbeiyou@gmail.com": 840.01, 
+        "Xingyun27221@gmail.com": -44.58, 
         "lhx1031@gmail.com": 1.0, 
-        "Chbeiyou@gmail.com": 844.06
-    }, 
-    "watermark": "4a6b8bae3f78681320f6d80135813786b1c046c8"
+        "iamanxia@gmail.com": -179.62, 
+        "yunxing@upthere.com": -371.52, 
+        "yuelee@umich.edu": -43.16, 
+        "guoxing@umich.edu": 13.5, 
+        "Hding@macalester.edu": -218.3, 
+        "hongyuwang87@gmail.com": 2.72
+    }
 }
